@@ -1,0 +1,3 @@
+GET / BADPROTO/x.y
+Host: localhost
+
